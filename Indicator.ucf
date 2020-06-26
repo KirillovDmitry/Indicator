@@ -1,0 +1,15 @@
+
+NET "tg"  LOC = P14; 
+
+NET "S1"  LOC = P29;
+NET "S2"  LOC = P30;
+NET "S3"  LOC = P32;
+NET "S4"  LOC = P33;
+
+NET "DA"  LOC = P34;
+NET "DB"  LOC = P35;
+NET "DC"  LOC = P38;
+NET "DD"  LOC = P40;
+NET "DE"  LOC = P41;
+NET "DF"  LOC = P43;
+NET "DG"  LOC = P44;
